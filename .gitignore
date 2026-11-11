@@ -1,0 +1,7 @@
+# Compiled executables
+*.exe
+student
+
+# Common build output
+build/
+dist/
